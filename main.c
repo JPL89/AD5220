@@ -12,8 +12,6 @@
 // (at your option) any later version.
 //
 #include "utils.h"
-#include "ks0066.h"
-#include "wire.h"
 #include "ad5220.h"
 
 void main(void)
